@@ -1,1 +1,1 @@
-## Personal blog [I'm an inline-style link](https://www.google.com)
+## Personal blog [Quintin mudge](https://qmudge.github.io/blog)
